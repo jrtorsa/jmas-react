@@ -1,8 +1,9 @@
+import LogoComponent from "./components/globals/LogoComponent";
 
 function App() {
   return (
     <div className="App">
-      Hello
+      <LogoComponent />
     </div>
   );
 }
