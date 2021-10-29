@@ -1,0 +1,23 @@
+.pin-code-container{
+  background-color: #F0F1F1;
+  border-radius: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: 'Barlow', sans-serif;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.pin-code-row {
+  text-align: center;
+  margin: 0% 5%;
+}
+
+.pin-code-number{
+  margin: 10% 5%;
+  background-color: #B7B6B6;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  line-height: 3;
+}

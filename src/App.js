@@ -1,9 +1,9 @@
-import LogoComponent from "./components/globals/LogoComponent";
+import LinkAccount from "./views/LinkAccount";
 
 function App() {
   return (
     <div className="App">
-      <LogoComponent />
+      <LinkAccount />
     </div>
   );
 }
