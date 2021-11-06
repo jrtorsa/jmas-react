@@ -1,0 +1,10 @@
+.display-pin-code-result {
+  border: 1px solid #c5cccc;
+  height: 40px;
+  margin: 15px 0;
+  padding: 5px;
+  border-radius: 10px;
+  text-align: end;
+  line-height: 40px;
+  font-size: 28px;
+}
